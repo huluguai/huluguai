@@ -79,3 +79,8 @@ React      🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜  30%
 ---
 
 ⭐ *Thanks for visiting my GitHub profile! If you find my projects interesting, feel free to Star and Fork!*
+## project IoT platform
+![b6b37d5be12595a26030226760762553](https://github.com/user-attachments/assets/2fa3a9b5-1477-4174-9121-0f5dd49941d1)
+![bcc82678acaa7b0be5d5eb9bada82673](https://github.com/user-attachments/assets/c0cfaef1-8f58-4372-99a3-f80efadae721)
+
+
